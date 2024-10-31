@@ -1,0 +1,10 @@
+<svg width="32" height="28" viewBox="0 0 32 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M28.0001 27.5H4.00006C3.20434 27.5002 2.44116 27.1842 1.8785 26.6216C1.31584 26.0589 0.999842 25.2957 1.00006 24.5V3.5C0.999842 2.70428 1.31584 1.94109 1.8785 1.37844C2.44116 0.815781 3.20434 0.499781 4.00006 0.5H28.0001C28.7958 0.499781 29.559 0.815781 30.1216 1.37844C30.6843 1.94109 31.0003 2.70428 31.0001 3.5V24.5C31.0003 25.2957 30.6843 26.0589 30.1216 26.6216C29.559 27.1842 28.7958 27.5002 28.0001 27.5Z" stroke="#757575" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_2" d="M1.00006 8H31.0001" stroke="#757575" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_3" d="M7 8L10 0.5" stroke="#757575" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_4" d="M14.5001 8L17.5001 0.5" stroke="#757575" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_5" d="M21.9999 8L24.9999 0.5" stroke="#757575" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_6" fill-rule="evenodd" clip-rule="evenodd" d="M13.1839 20.5236V14.9763C13.184 14.6279 13.37 14.306 13.6718 14.1319C13.9736 13.9578 14.3454 13.9579 14.6471 14.1323L19.4467 16.9059C19.7482 17.0801 19.9339 17.4018 19.9339 17.75C19.9339 18.0981 19.7482 18.4199 19.4467 18.594L14.6471 21.3676C14.3454 21.542 13.9736 21.5422 13.6718 21.3681C13.37 21.194 13.184 20.872 13.1839 20.5236Z" stroke="#757575" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

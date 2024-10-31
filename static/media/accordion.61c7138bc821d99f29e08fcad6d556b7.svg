@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<rect id="Rectangle" x="1" y="9.33331" width="30" height="13.3333" rx="2" stroke="#757575" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path" d="M1 31C1 29.1591 2.49238 27.6667 4.33333 27.6667H27.6667C29.5076 27.6667 31 29.1591 31 31" stroke="#757575" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_2" d="M31 1C31 2.84095 29.5076 4.33333 27.6667 4.33333H4.33333C2.49238 4.33333 1 2.84095 1 1" stroke="#757575" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

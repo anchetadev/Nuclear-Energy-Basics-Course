@@ -1,0 +1,16 @@
+{
+  "short_name": "Constructor",
+  "name": "Constructor",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "144x144 64x64 32x32 24x24 16x16",
+      "type": "image/svg",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ebf0f4"
+}

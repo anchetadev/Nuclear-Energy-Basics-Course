@@ -1,0 +1,7 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<path id="Path" d="M16 9.33331V22.6666" stroke="#757575" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_2" d="M22.6667 16H9.33333" stroke="#757575" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_3" fill-rule="evenodd" clip-rule="evenodd" d="M16 31V31C7.715 31 1 24.285 1 16V16C1 7.715 7.715 1 16 1V1C24.285 1 31 7.715 31 16V16C31 24.285 24.285 31 16 31Z" stroke="#757575" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
